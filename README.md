@@ -1,6 +1,6 @@
 # Style guide
 
-This is a Gulp Boilerplate developed by me tu create project fron scratch and in this case i have a style guide with many UI components created by me
+This is a Boilerplate developed by me to use the HTML modules for Email Development
 
 for this i use:
 * ```HTML (pug)```
@@ -12,5 +12,5 @@ Instructions:
 * ```gulp build``` before deployment
 * ```npm run deploy``` to publish the site in gh pages
 
-## gh-pages link: https://kikeestrada.github.io/boilerplate-for-courses/
+## gh-pages link: https://kikeestrada.github.io/email_md_modules/
 

@@ -1,9 +1,9 @@
 {
-	"name": "boilerplate-for-courses",
+	"name": "email_md_modules",
 	"version": "1.0.0",
 	"description": "Simple scafolding for statics web projects",
 	"main": "gulpfile.babel.js",
-	"homepage": "https://kikeestrada.github.io/boilerplate-for-courses/",
+	"homepage": "https://kikeestrada.github.io/email_md_modules/",
 	"scripts": {
 		"start": "gulp",
 		"pug": "gulp pug",
