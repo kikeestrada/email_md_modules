@@ -2,38 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://kikeestrada.github.io/boilerplate-for-courses/class1.html</loc>
-        <lastmod>2020-05-04T07:25:51.810Z</lastmod>
+        <lastmod>2021-05-29T02:54:58.669Z</lastmod>
     </url>
     <url>
         <loc>https://kikeestrada.github.io/boilerplate-for-courses/class2.html</loc>
-        <lastmod>2020-05-04T07:25:52.171Z</lastmod>
+        <lastmod>2021-05-29T02:59:36.245Z</lastmod>
     </url>
     <url>
         <loc>https://kikeestrada.github.io/boilerplate-for-courses/class3.html</loc>
-        <lastmod>2020-05-04T07:25:52.432Z</lastmod>
+        <lastmod>2021-05-29T03:10:47.561Z</lastmod>
     </url>
     <url>
         <loc>https://kikeestrada.github.io/boilerplate-for-courses/class4.html</loc>
-        <lastmod>2020-05-04T07:25:52.507Z</lastmod>
+        <lastmod>2021-05-29T03:13:46.689Z</lastmod>
     </url>
     <url>
         <loc>https://kikeestrada.github.io/boilerplate-for-courses/class5.html</loc>
-        <lastmod>2020-05-04T07:25:52.528Z</lastmod>
+        <lastmod>2021-05-29T03:18:14.342Z</lastmod>
     </url>
     <url>
         <loc>https://kikeestrada.github.io/boilerplate-for-courses/class6.html</loc>
-        <lastmod>2020-05-04T07:25:52.545Z</lastmod>
+        <lastmod>2021-05-29T03:22:11.449Z</lastmod>
     </url>
     <url>
         <loc>https://kikeestrada.github.io/boilerplate-for-courses/class7.html</loc>
-        <lastmod>2020-05-04T07:25:52.563Z</lastmod>
+        <lastmod>2021-05-29T03:28:36.173Z</lastmod>
     </url>
     <url>
         <loc>https://kikeestrada.github.io/boilerplate-for-courses/class8.html</loc>
-        <lastmod>2020-05-04T07:25:52.581Z</lastmod>
+        <lastmod>2021-05-29T03:33:44.992Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.github.io/boilerplate-for-courses/clean_table.html</loc>
+        <lastmod>2021-05-29T03:44:59.354Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.github.io/boilerplate-for-courses/cta.html</loc>
+        <lastmod>2021-05-29T03:43:41.065Z</lastmod>
     </url>
     <url>
         <loc>https://kikeestrada.github.io/boilerplate-for-courses/</loc>
-        <lastmod>2020-05-04T07:25:52.603Z</lastmod>
+        <lastmod>2021-05-29T03:43:41.167Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.github.io/boilerplate-for-courses/line.html</loc>
+        <lastmod>2021-05-29T03:43:41.270Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.github.io/boilerplate-for-courses/round_corners.html</loc>
+        <lastmod>2021-05-29T03:43:41.271Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.github.io/boilerplate-for-courses/spacer_gif.html</loc>
+        <lastmod>2021-05-29T03:43:41.272Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.github.io/boilerplate-for-courses/spacer_padding.html</loc>
+        <lastmod>2021-05-29T03:43:41.273Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.github.io/boilerplate-for-courses/switch_image.html</loc>
+        <lastmod>2021-05-29T03:43:41.274Z</lastmod>
+    </url>
+    <url>
+        <loc>https://kikeestrada.github.io/boilerplate-for-courses/text_copy.html</loc>
+        <lastmod>2021-05-29T03:43:41.275Z</lastmod>
     </url>
 </urlset>
