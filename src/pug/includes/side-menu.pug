@@ -1,10 +1,19 @@
-block link-section 
-	- let sidebar = { 'Home': './','Clean Table': './clean_table.html','CTA': './cta.html' ,'Line': './line.html','Spacer Gif': './spacer_gif.html' ,'Spacer Padding': './spacer_padding.html' ,'Switch Image': './switch_image.html' ,'Text Copy': './text_copy.html' ,'Round Corners': './round_corners.html'};
-
 aside(itemscope="itemscope" itemtype="http://schema.org/WPSideBar" role="complementary").ed-item.l-25 
 	.vertical-menu-toggle.to-l#vertical-menu-toggle(data-content="Filtros")
 	nav(itemscope itemtype="http://schema.org/WPSideBar").vertical-menu#vertical-menu 
 		ul
-			each val, key in sidebar 
-				li
-					a(href=val title= "Enlace de " + key)= key
+			li: a(href="./") Home
+			li: a(href="./clean_table.html") Clean Table
+			li: a(href="./cta.html") CTA
+			li: a(href="./line.html") Line
+			li: a(href="./spacer_gif.html") Spacer Gif
+			li: a(href="./spacer_padding.html") Spacer Padding
+			li: a(href="./switch_image.html") Switch Image
+			li: a(href="./text_copy.html") Text Copy
+			li: a(href="./round_corners.html") Round Corners
+			li: a(href="./stack_2_cols_fluid.html") Stack 2 Cols Fluid
+			li: a(href="./stack_2_cols_reverse_fluid.html") Stack 2 Reverse Cols Fluid
+			li: a(href="./stack_3_cols_fluid.html") Stack 3 Cols Fluid
+			li: a(href="./stack_2_cols_td.html") Stack 2 Cols td
+			li: a(href="./stack_2_cols_ltr_table.html") Stack 2 Cols ltr Table
+			li: a(href="./stack_2_cols_reverse_ltr_table.html") Stack 2 Cols Reverse ltr Table
