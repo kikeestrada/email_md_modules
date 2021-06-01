@@ -4,7 +4,7 @@ Copy and Paste this HTML Component
 ## HTML
 ```html
 <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
-	<tbody>
+	<tbody> 
 		<tr>
 			<td valign="top">
 				<div role="list" style="margin:0; padding:0px;list-style: none;">

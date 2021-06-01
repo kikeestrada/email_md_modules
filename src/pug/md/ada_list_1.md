@@ -7,8 +7,9 @@ Copy and Paste this HTML Component
 	<tbody>
 		<tr>
 			<td valign="top" bgcolor="#eeeeee">
+
 				<div role="list">
-					<!--[if (gte mso 9)|(IE)]>                   
+					<!--[if (gte mso 9)|(IE)]>
 						<table role="presentation" align="center" border="0" cellpadding="0" cellspacing="0" width="650">
 							<tr>
 								<td align="left" width="100%" valign="top" style="line-height:0px; font-size:0px;mso-line-height-rule:exactly;mso-text-raise: 0px;" <td valign="top" bgcolor="#eeeeee">
@@ -27,7 +28,7 @@ Copy and Paste this HTML Component
 											</tbody>
 										</table>
 									</div>
-					<!--[if (gte mso 9)|(IE)]>                   
+					<!--[if (gte mso 9)|(IE)]>
 								</td>
 							</tr>
 							<tr>
@@ -47,11 +48,11 @@ Copy and Paste this HTML Component
 											</tbody>
 										</table>
 									</div>
-					<!--[if (gte mso 9)|(IE)]>                   
+					<!--[if (gte mso 9)|(IE)]>
 								</td>
 							</tr>
 					<![endif]-->
-					<!--[if (gte mso 9)|(IE)]>                   
+					<!--[if (gte mso 9)|(IE)]>
 						</table>
 					<![endif]-->
 				</div>

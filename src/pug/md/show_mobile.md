@@ -25,7 +25,7 @@ Copy and Paste this HTML Component
 ```css
 /*Show Mobile*/
 *[class=show-container-mobile]{
-    display:block!important;
+    display:block!important; 
     margin:auto!important;
     width:100%!important;
     height:auto!important;

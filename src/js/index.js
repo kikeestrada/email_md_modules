@@ -1,6 +1,6 @@
-import {activeMenuItem} from "./modules/verticalMenu";
 import {swDetecter} from './modules/swDetecter';
 (()=>{ 
+	Prism();
 	swDetecter();
 	if (document.body.classList.contains('home')) { 
 		// functions here
