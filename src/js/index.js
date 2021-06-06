@@ -1,6 +1,8 @@
+import {activeMenuItem} from "./modules/verticalMenu";
 import {swDetecter} from './modules/swDetecter';
 (()=>{ 
 	swDetecter();
+	activeMenuItem();
 	if (document.body.classList.contains('home')) { 
 		// functions here
 	}else if (document.body.classList.contains('page2')) {
