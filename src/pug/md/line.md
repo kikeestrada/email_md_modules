@@ -14,3 +14,25 @@ Copy and Paste this HTML Component
   </tr>
 </table>
 ```
+
+
+
+<!-- 📱💻 Mobile + Desktop -->
+<table bgcolor="#FFFFFF" cellspacing="0" cellpadding="0" border="0" width="100%" role="presentation" align="center" style="border-collapse:collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+	<tr>
+		<td bgcolor="#FFFFFF" align="left" valign="top" style="border-collapse:collapse; mso-line-height-rule: exactly; word-break:break-word;">
+ <!-- 📱Mobile -->
+<table class="mobile-only" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0" border="0" width="100%" role="presentation" align="center" style="border-collapse:collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+	<tr>
+		<td bgcolor="#FFFFFF" align="left" valign="top" style="border-collapse:collapse; mso-line-height-rule: exactly; word-break:break-word;">Shows only on mobile</td>
+	</tr>
+</table>
+ <!-- 💻Desktop -->
+<table class="desktop-only" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0" border="0" width="100%" role="presentation" align="center" style="border-collapse:collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+	<tr>
+		<td bgcolor="#FFFFFF" align="left" valign="top" style="border-collapse:collapse; mso-line-height-rule: exactly; word-break:break-word;">Shows only on desktop</td>
+	</tr>
+</table>
+ </td>
+	</tr>
+</table>
