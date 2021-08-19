@@ -13,7 +13,7 @@ Copy and Paste this HTML Component
           <tr>
             <td style="vertical-align:top;">
       <![endif]-->
-              <div class="mj-column-per-33 mj-outlook-group-fix blocktable" style="direction:ltr; display:inline-block; width:100%; vertical-align:top; font-size:0px;">
+              <div class="col-33 mj-outlook-group-fix blocktable" style="direction:ltr; display:inline-block; width:100%; vertical-align:top; font-size:0px;">
                 <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
                   <tbody>
                     <tr>
@@ -37,7 +37,7 @@ Copy and Paste this HTML Component
             </td>
             <td style="vertical-align:top;">
       <![endif]-->
-              <div class="mj-column-per-33 mj-outlook-group-fix blocktable" style="direction:ltr; display:inline-block; width:100%; vertical-align:top; font-size:0px;">
+              <div class="col-33 mj-outlook-group-fix blocktable" style="direction:ltr; display:inline-block; width:100%; vertical-align:top; font-size:0px;">
                 <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
                   <tbody>
                     <tr>
@@ -61,7 +61,7 @@ Copy and Paste this HTML Component
             </td>
             <td style="vertical-align:top;">
       <![endif]-->
-              <div class="mj-column-per-33 mj-outlook-group-fix blocktable" style="direction:ltr; display:inline-block; width:100%; vertical-align:top; font-size:0px;">
+              <div class="col-33 mj-outlook-group-fix blocktable" style="direction:ltr; display:inline-block; width:100%; vertical-align:top; font-size:0px;">
                 <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" width="100%">
                   <tbody>
                     <tr>

@@ -13,7 +13,7 @@ Copy and Paste this HTML Component
           <tr>
             <td style="vertical-align:top;">
       <![endif]-->
-              <div class="mj-column-per-50 mj-outlook-group-fix blocktable" style="direction:ltr; display:inline-block; width:100%; vertical-align:top; font-size:0px;">
+              <div class="col-50 mj-outlook-group-fix blocktable" style="direction:ltr; display:inline-block; width:100%; vertical-align:top; font-size:0px;">
                 <table role="presentation" border="0" cellspacing="0" cellpadding="0" width="100%" align="center">
                   <tr>
                     <td style="line-height:0px; font-size:0px;" align="center" valign="middle">
@@ -27,7 +27,7 @@ Copy and Paste this HTML Component
             </td>
             <td style="vertical-align:top;">
       <![endif]-->
-              <div class="mj-column-per-50 mj-outlook-group-fix blocktable" style="direction:ltr; display:inline-block; width:100%; vertical-align:top; font-size:0px;">
+              <div class="col-50 mj-outlook-group-fix blocktable" style="direction:ltr; display:inline-block; width:100%; vertical-align:top; font-size:0px;">
                 <table role="presentation" border="0" cellspacing="0" cellpadding="0" align="center" width="100%" style="width: 100%;" class="class-name">
                   <tbody>
                     <tr>
